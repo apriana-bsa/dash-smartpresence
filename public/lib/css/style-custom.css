@@ -1,0 +1,503 @@
+.tanggal {
+  width:75px;
+  min-width:75px;
+}
+.tanggalsd {
+  width:175px;
+  min-width:125px;
+}
+.berlaku-mulai {
+  width:110px;
+  min-width:110px;  
+}
+.jam {
+  width:60px;
+  min-width:60px;
+}
+.jamsd{
+  width:90px;
+  min-width:90px;
+}
+.waktu {
+  width:130px;
+  min-width:130px;
+}
+.cek {
+  width:30px;
+  min-width:30px;
+}
+.uniqueid {
+  width:100px;
+  min-width:100px;  
+}
+.nis {
+  width:100px;
+  min-width:100px;
+}
+.nisn {
+  width:100px;
+  min-width:100px;
+}
+.nik {
+  width:100px;
+  min-width:100px;
+}
+.nip {
+  width:140px;
+  min-width:140px;
+}
+.nrk {
+  width:120px;
+  min-width:120px;        
+}
+.nuptk {
+  width:120px;
+  min-width:120px;
+}
+.jabatan {
+  width:120px;
+  min-width:120px;  
+}
+.nama {
+  min-width:200px;
+}
+.nama-fix {
+  width:300px;
+  min-width:160px;
+}
+.alamat {
+  width:200px;
+  min-width:200px;
+}
+.yatidak {
+  width:110px;
+  min-width:100px;
+}
+.ditampilkan {
+  width:115px;
+  min-width:115px;
+}
+.terhitungmasuk {
+  width:140px;
+  min-width:140px;
+}
+.harilibur {
+  width:95px;
+  min-width:95px;
+}
+.jenis-absen {
+  width:95px;
+  min-width:95px;  
+}
+.keterangan {
+  min-width:200px;
+}
+.keterangan-fix {
+  width:200px;
+  min-width:160px;
+}
+.keterangan-detail {
+  min-width:660px;  
+}
+.pesan {
+  width:400px;
+  min-width:200px;
+}
+.ikon {
+  width:50px;
+  min-width:50px;
+}
+.alasan {
+  width:180px;
+  min-width:120px;
+}
+.alasan-kode {
+  width:65px;
+  min-width:65px;
+}
+.terlambat {
+  width:100px;
+  min-width:100px;
+}
+.lembur {
+  width:80px;
+  min-width:80px;
+}
+.kelas {
+  width:100px;
+  min-width:100px;
+}
+.tingkatan {
+  width:100px;
+  min-width:100px;
+}
+.gelombang {
+  width:100px;
+  min-width:100px;
+}
+.biaya {
+  width:150px;
+  min-width:100px;
+}
+.nilai {
+  width:70px;
+  min-width:70px;  
+}
+.kategori {
+  width:110px;
+  min-width:110px;  
+}
+.katalog {
+  width:130px;
+  min-width:130px;    
+}
+.jenis-peminjam {
+  width:135px;
+  min-width:135px;        
+}
+.kode-pustaka {
+  width:105px;
+  min-width:105px;        
+}
+.penerbit {
+  width:130px;
+  min-width:130px;    
+}
+.penulis {
+  width:130px;
+  min-width:130px;    
+}
+.masukkeluar {
+  width:120px;
+  min-width:120px;
+}
+.absen-kondisi {
+  width:120px;
+  min-width:120px;  
+}
+.urutan {
+  width:90px;
+  min-width:90px;  
+}
+.id {
+  width:70px;
+  min-width:70px;  
+}
+.jumlah-masuk {
+  width:90px;
+  min-width:80px;  
+}
+.jumlah-terlambat {
+  width:95px;
+  min-width:90px;  
+}
+.jumlah-tidak-masuk {
+  width:95px;
+  min-width:95px;  
+}
+.tanggal-satuan {
+  width:22px;
+  min-width:20px;
+}
+.username {
+  width:140px;
+  min-width:100px;        
+}
+.lama-kerja {
+  width:105px;
+  min-width:105px;  
+}
+.lama-terlambat {
+  width:95px;
+  min-width:95px;  
+}
+.lama-lembur {
+  width:85px;
+  min-width:85px;  
+}
+.kinerja {
+  width:80px;
+  min-width:80px;  
+}
+.matapelajaran {
+  width:180px;
+  min-width:130px;  
+}
+.jumlah {
+  width:90px;
+  min-width:90px;  
+}
+.jenis-pengujian {
+  width:100px;
+  min-width:100px;    
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.kompetensi-dasar {
+  width:100px;
+  min-width:100px;    
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.aspek-penilaian {
+  width:120px;
+  min-width:120px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.penilaian-ujian {
+  width:100px;
+  min-width:100px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.hari-jam {
+  width:100px;
+  min-width:100px;
+}
+.opsi1 {
+  width:70px;
+  min-width:70px;
+}
+.opsi2 {
+  width:90px;
+  min-width:90px;
+}
+.opsi3 {
+  width:110px;
+  min-width:110px;
+}
+.opsi4 {
+  width:120px;
+  min-width:120px;
+}
+.opsi5 {
+  width:130px;
+  min-width:130px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.notransaksi {
+  width:200px;
+  min-width:200px;
+}
+
+.td_padding5{
+  padding:5px;
+}
+.penilaian-guru {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;  
+}
+.penilaian-nis {
+  min-width: 50px;
+  max-width: 100px;
+  width: 50px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.penilaian-nama {
+  min-width:160px;
+  max-width: 400px;
+  width:400px;
+}
+.penilaian-nilai {
+  min-width: 50px;
+  max-width: 100px;
+  width: 50px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.penilaian-tugas-plus {
+  min-width: 30px;
+  width:100%;
+}
+.penilaian-null {
+  min-width: 0px;
+  width:100%;
+}
+
+.tanggalpublikasipenilaian-icon {
+  cursor: pointer;
+  margin-top: 3px;
+}
+
+.header-laporan-label {
+  float:left;
+  padding-top:7px;
+  margin-bottom:5px;
+}
+
+.header-laporan-form {
+  float:left;
+  margin-left:5px;
+  margin-bottom:5px;
+  margin-right:10px;
+}
+
+.padding5 {
+  padding:5px;
+}
+
+.padding2 {
+  padding:2px;
+}
+
+.a-left{
+  text-align:left;
+}
+
+.a-right{
+  text-align:right;
+}
+
+.tidakaktif{
+  text-decoration: line-through;
+}
+
+.glyphicon{
+  top:0;
+}
+
+.pagination>li>a {
+  cursor:default;
+}
+
+.datepicker{
+  z-index:9999999999999999999 !important;
+}
+
+.tdmodal{
+  padding: 5px;
+}
+
+.namasekolah{
+  float: left;
+  background-color: transparent;
+  background-image: none;
+  padding: 15px;
+  /*font-family: fontAwesome;*/
+  color: #fff;
+  font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.detailpegawai:hover {
+  text-decoration:underline;
+}
+
+.detailsiswa:hover {
+  text-decoration:underline;
+}
+
+.stylelogo {
+  color:#ECF0F5;
+  font-family: Source Sans Pro,Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-size:22px;
+}
+
+span {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+.detailpegawai:hover {
+  text-decoration: underline;
+}
+
+.modal-footer{
+  padding:10px;
+}
+
+.tt-hint{
+  top:1px !important;
+  left:1px !important;
+  font-size:14px;
+  color:#ccc;
+  width:100%;
+}
+
+.stylehover:hover{
+  text-decoration: underline;
+}
+
+.tdfilter{
+  padding:5px 15px;
+}
+
+.controls {
+  margin-top: 10px;
+  border: 1px solid transparent;
+  border-radius: 2px 0 0 2px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  height: 32px;
+  outline: none;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+
+#description {
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 300;
+}
+
+.pac-input {
+  background-color: #fff;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 300;
+  margin-left: 12px;
+  padding: 0 11px 0 13px;
+  text-overflow: ellipsis;
+  width: 300px;
+  z-index:99999999;
+}
+
+.pac-input:focus {
+  border-color: #4d90fe;
+}
+
+.pac-container {
+  font-family: Roboto;
+}
+
+.pac-container{
+  z-index: 999999999999 !important;
+}
+
+#pac-container {
+  padding-bottom: 12px;
+  margin-right: 12px;
+  z-index: 999999999999 !important;
+}
+
+.pac-controls {
+  display: inline-block;
+  padding: 5px 11px;
+}
+
+.pac-controls label {
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 300;
+}
+
+.spancheckbox{
+  cursor: pointer !important;
+}
+
+.popover .popover-body {
+  padding: 9px 14px;
+  color: #ffffff;
+}

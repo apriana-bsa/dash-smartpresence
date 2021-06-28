@@ -1,0 +1,9 @@
+ini dibuat untuk petunjuk jika ada error/bug yg pernah ditemukan sebelumnya
+
+
+error: Column not found: 1054 Unknown column '_av_1' in 'field list'
+perbaikan: gabungkan tabel _pegawailengkap di querynya
+
+bug: jika ekspor excel atributpenting header tidak pada tempatnya
+perbaikan: ubah di komentar //set atribut penting $hi = $i + 8; (8 adalah jumlah kolom fix yg ditampilkan sebelum ditambahkan atribut penting dan atribut variable)
+

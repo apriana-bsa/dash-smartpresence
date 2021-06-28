@@ -1,0 +1,36 @@
+.blueimp-gallery > .rotate-right {
+  position: absolute;
+  left: 40px;
+  bottom: 15px;
+  width: 20px;
+  height: 20px;
+  background: url(../img/rotate-img.svg) 0 0 no-repeat;
+  cursor: pointer;
+  opacity: 0.5;
+  display: none;
+  -moz-transform: scaleX(-1);
+  -o-transform: scaleX(-1);
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
+.blueimp-gallery > .rotate-left {
+  position: absolute;
+  left: 15px;
+  bottom: 15px;
+  width: 20px;
+  height: 20px;
+  background: url(../img/rotate-img.svg) 0 0 no-repeat;
+  cursor: pointer;
+  opacity: 0.5;
+  display: none;
+}
+
+.blueimp-gallery-controls > .rotate-right, .blueimp-gallery-controls > .rotate-left {
+  display: block;
+}
+
+.blueimp-gallery > .rotate-right:hover, .blueimp-gallery > .rotate-left:hover {
+  color: #fff;
+  opacity: 1;
+}
